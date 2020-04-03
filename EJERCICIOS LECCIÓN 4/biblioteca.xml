@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+<libro isbn = "5479784562314">
+    <autor>Paulo Coelho</autor>
+    <titulo>El Alquimista</titulo>
+    <año>1988</año>
+    <editorial>Mexico D.F. - Editorial Grijalbo</editorial>
+    <clasificacion>Literatura</clasificacion>
+    <idioma>Español</idioma>
+    <precio moneda="euro"> 7.80</precio>
+</libro>
+<libro isbn = "8447333779">
+    <autor>Gabriel Garcia Marquez</autor>
+    <titulo>Cien años de soledad</titulo>
+    <año>1967</año>
+    <editorial>Buenos Aires - Barcelona, Editorial Sudamericana</editorial>
+    <clasificacion>Literatura</clasificacion>
+    <idioma>Español</idioma>
+    <precio moneda="euro"> 5.00</precio>
+</libro>
+<libro isbn ="978-0-07-212648-8">
+    <autor>Gambardella, Matthew</autor>
+    <titulo>XML Developer's Guide</titulo>
+    <año>2000</año>
+    <editorial>Cualquier Editorial</editorial>
+    <clasificacion>Computer</clasificacion>
+    <idioma>Español</idioma>
+    <precio moneda="dollar"> 44.50</precio>
+</libro>
+</biblioteca>

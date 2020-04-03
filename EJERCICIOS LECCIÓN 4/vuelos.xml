@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<vuelos>
+   <vuelo>
+       <id>1</id>
+       <origen>New York</origen>
+       <destino>London</destino>
+       <duracion>415</duracion>
+
+
+         <id>2</id>
+         <origen>Shangai</origen>
+         <destino>Paris</destino>
+         <duracion>760</duracion>
+
+
+         <id>3</id>
+         <origen>Istanbul</origen>
+         <destino>Tokyo</destino>
+         <duracion>700</duracion>
+   
+
+         <id>4</id>
+         <origen>New York</origen>
+         <destino>Paris</destino>
+         <duracion>435</duracion>
+
+
+         <id>5</id>
+         <origen>Moscow</origen>
+         <destino>Paris</destino>
+         <duracion>245</duracion>
+   
+
+         <id>6</id>
+         <origen>Lima</origen>
+         <destino>New York</destino>
+         <duracion>455</duracion>
+    </vuelo>
+</vuelos>
