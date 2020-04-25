@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<peliculas>
+  <pelicula peli_id="1">
+    <titulo>Avengers: EndGame</titulo>
+    <año>2019</año>
+    <genero>Acción</genero>
+    <clasificacion>B15</clasificacion>
+  </pelicula>
+<pelicula peli_id="2"><titulo>Avengers: EndGame</titulo><año>2019</año><genero>Acción</genero><clasificacion>B15</clasificacion></pelicula></peliculas>
