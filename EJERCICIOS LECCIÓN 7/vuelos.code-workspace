@@ -1,0 +1,6 @@
+{"vuelos": [
+    {"id" : "1", "Origen" : "Torreon", "Destino" : "Tijuana", "Duracion" : "210"},
+    {"id" : "2", "Origen" : "CDMX", "Destino" : "Torreon" , "Duracion" : "150"},
+    {"id" : "3", "Origen" : "Torreon" , "Destino" : "Monterrey" , "Duracion" : "50"},
+    {"id" : "4", "Origen" : "Tijuana" , "Destino" : "Guadalajara" , "Duracion" : "255"},
+]}

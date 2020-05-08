@@ -1,0 +1,7 @@
+{"peliculas": [
+    {"id" : "1", "Titulo" : "Avengers", "Año" : "2020", "Genero" : "Acción", "Clasificacion" : "B15"},
+    {"id" : "2", "Titulo" : "Slenderman", "Año" : "2020", "Genero" : "Suspenso", "Clasificacion" : "R"},
+    {"id" : "3", "Titulo" : "Spiderman", "Año" : "2021", "Genero" : "Acción", "Clasificacion" : "B15"},
+    {"id" : "4", "Titulo" : "Gretel&Hansel", "Año" : "2020", "Genero" : "Aventura", "Clasificacion" : "B15"},
+    {"id" : "5", "Titulo" : "Annabelle", "Año" : "2021", "Genero" : "Terror", "Clasificacion" : "B"}
+    ]}
