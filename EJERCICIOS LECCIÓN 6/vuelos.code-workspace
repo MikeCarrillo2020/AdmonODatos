@@ -1,0 +1,8 @@
+{"vuelos": [
+    {"id" : "1", "Origen" : "New York", "Destino" : "London", "Duracion" : "415"},
+    {"id" : "2", "Origen" : "Shangai", "Destino" : "Paris" , "Duracion" : "760"},
+    {"id" : "3", "Origen" : "Istambul" , "Destino" : "Tokyo" , "Duracion" : "700"},
+    {"id" : "4", "Origen" : "New York" , "Destino" : "Paris" , "Duracion" : "435"},
+    {"id" : "5", "Origen" : "Moscow" , "Destino" : "Paris" , "Duracion" : "245"},
+    {"id" : "6", "Origen" : "Lima" , "Destino" : "New York" , "Duracion" : "455"}
+]}

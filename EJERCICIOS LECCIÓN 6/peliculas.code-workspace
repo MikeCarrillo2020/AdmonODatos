@@ -1,0 +1,6 @@
+{"peliculas": [
+    {"id" : "1", "Titulo" : "Frozen", "Año" : "2013", "Genero" : "Familiar", "Clasificacion" : "A"},
+    {"id" : "2", "Titulo" : "Rapido Y Furioso 9", "Año" : "2020", "Genero" : "Acción", "Clasificacion" : "A"},
+    {"id" : "3", "Titulo" : "Spiderman", "Año" : "2020", "Genero" : "Acción", "Clasificacion" : "B15"},
+    {"id" : "4", "Titulo" : "Batman", "Año" : "2020", "Genero" : "Acción", "Clasificacion" : "B15"}
+]}
